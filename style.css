@@ -1,5 +1,5 @@
 html, body {
-  background: #f0f8ff !important;
+  background: #4682b4 !important;
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
@@ -7,9 +7,9 @@ html, body {
 }
 
 header.main-header {
-  width: 100%;
+  width: 2450px;
   margin: 0 auto 0 auto;
-  background: #000;
+  background: #4682b4;
   border-radius: 0;
   box-shadow: 0 4px 24px rgba(0,0,0,0.18);
   padding: 36px 24px 24px 24px;
@@ -39,7 +39,7 @@ header.main-header .main-nav a {
 }
 header.main-header .main-nav a:hover {
   background: #fff;
-  color: #000 !important;
+  color: #4682b4 !important;
 }
 @media (max-width: 900px) {
   header.main-header {
@@ -54,7 +54,7 @@ header.main-header .main-nav a:hover {
 .subtitle {
   font-size: 1.2rem;
   margin-bottom: 20px;
-  color: #e0e0e0;
+  color: #e6f2ff;
 }
 .main-nav {
   margin: 0 auto 0 auto;
