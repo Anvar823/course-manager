@@ -409,6 +409,63 @@ section#russian-course.course-section.course-black.fade-in.visible {
   justify-content: center;
 } 
 
+section#social-course.course-section.course-black.fade-in.visible {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 60px 0 40px 0;
+  background: #4682b4;
+  color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+} 
+
+section#social-course.course-section.course-black.fade-in.visible {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 60px 0 40px 0;
+  background: #4682b4;
+  color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+section#informatics-course.course-section.course-black.fade-in.visible {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 60px 0 40px 0;
+  background: #4682b4;
+  color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+} 
+
+
+section#history-course.course-section.course-black.fade-in.visible {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 60px 0 40px 0;
+  background: #4682b4;
+  color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+} 
+
 section#math-course {
   padding-top: 0 !important;
 } 
